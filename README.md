@@ -104,8 +104,8 @@ Input (150 × 150 × 3)
 
 ### 1. Clone repositori
 ```bash
-git clone https://github.com/Izazfalih/<NIM>-PraktikumKB-Pertemuan8.git
-cd <NIM>-PraktikumKB-Pertemuan8
+git clone https://github.com/Izazfalih/H1D024034-PraktikumKB-Pertemuan8.git
+cd H1D024034-PraktikumKB-Pertemuan8
 ```
 
 ### 2. Install dependensi
