@@ -1,0 +1,21 @@
+# File dataset (besar, jangan di-commit)
+rockpaperscissors/
+*.h5
+*.png
+training_results.png
+cnn_rockpaperscissors_model.h5
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
